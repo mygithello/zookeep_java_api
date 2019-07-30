@@ -21,7 +21,7 @@ public class ZkClientOperation {
     @Test
     public void zkCRUD(){
         a();
-        a4();
+        a3();
     }
     public void a(){
         // 创建持久节点
